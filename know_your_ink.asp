@@ -131,7 +131,7 @@ footer {
 
 <footer>
   
-  <p><a href="jedicouncil.htm"><font size="5">Home</font></a></p>
+  <p><a href="https://ralema4.github.io/tattoofanpage.io/"><font size="5">Home</font></a></p>
 </footer>
 
 </body>
